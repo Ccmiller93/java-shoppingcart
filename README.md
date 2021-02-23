@@ -12,7 +12,7 @@ A Student that completes this project shows they can:
 
 A shopping cart is a very common application so let's look at one. This Java Spring REST API application will provide endpoints for clients to perform the various CRUD operations on data sets contained in the application's data. Access to these endpoints will be secured using OAuth2 Authentication.
 
-### Database layout
+### Database layout 
 
 You are creating a Java Spring REST API server which stores data in an H2 database. The final table layout should be
 
